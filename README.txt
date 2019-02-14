@@ -1,0 +1,1 @@
+A simple tutorial repository for showcasing the powers of git.
